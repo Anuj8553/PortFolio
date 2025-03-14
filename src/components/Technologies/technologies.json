@@ -1,0 +1,68 @@
+[
+    {
+        "id": "js",
+        "title": "JavaScript",
+        "src": "js.png",
+        "classname": "javascript"
+    },
+    {
+        "id": "react",
+        "title": "React",
+        "src": "react.png",
+        "classname": "react"
+    },
+    {
+        "id": "ts",
+        "title": "C++",
+        "src": "c-logo.png",
+        "classname": "typescript"
+    },
+    {
+        "id": "jq",
+        "title": "Gradle",
+        "src": "gradle.svg",
+        "classname": "jquery"
+    },
+    {
+        "id": "bs",
+        "title": "Bootstrap",
+        "src": "bootstrap.png",
+        "classname": "bootstrap"
+    },
+    {
+        "id": "next",
+        "title": "Andorid Studio",
+        "src": "android_studio.svg",
+        "classname": "next"
+    },
+    {
+        "id": "redux",
+        "title": "Redux",
+        "src": "redux.svg",
+        "classname": "redux"
+    },
+    {
+        "id": "tw",
+        "title": "Tailwind",
+        "src": "tailwind.png",
+        "classname": "tailwind"
+    },
+    {
+        "id": "vt",
+        "title": "Python",
+        "src": "python.png",
+        "classname": "vuetify"
+    },
+    {
+        "id": "svelte",
+        "title": "Flutter",
+        "src": "flutter.svg",
+        "classname": "svelte"
+    },
+    {
+        "id": "vue",
+        "title": "Git",
+        "src": "git.png",
+        "classname": "vue"
+    }
+]

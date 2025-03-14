@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Sperse Chat (Beta)",
+        "href": "https://sperse.netlify.app/",
+        "desc": "FOSS Chat app for everyone!",
+        "github": "sperse",
+        "img": "sperse.jpg",
+        "position": "",
+        "tools": [
+            "react.png",
+            "firebase.png",
+            "js.png",
+            "postman.png",
+            "vite.png"
+        ]
+    },
+    {
+        "name": "Vision Videos",
+        "href": "https://visionvideos.netlify.app/",
+        "desc": "Vision video player lets you watch your favorite videos ad-free!",
+        "github": "vision",
+        "img": "vision.jpg",
+        "position": "",
+        "tools": [
+            "react.png",
+            "js.png",
+            "postman.png",
+            "vite.png"
+        ]
+    },
+    {
+        "name": "Snapshot images",
+        "href": "https://snapshotphotos.netlify.app/",
+        "desc": "Snapshot is a image viewing app that takes data from Unsplash API",
+        "github": "snapshot",
+        "img": "snapshot.png",
+        "position": "",
+        "tools": [
+            "react.png",
+            "js.png",
+            "postman.png",
+            "vite.png",
+            "tailwind.png"
+        ]
+    }
+]

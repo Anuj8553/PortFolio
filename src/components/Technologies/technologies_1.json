@@ -1,0 +1,68 @@
+[
+    {
+        "id": "js",
+        "title": "JavaScript",
+        "src": "js.png",
+        "classname": "javascript"
+    },
+    {
+        "id": "react",
+        "title": "React",
+        "src": "react.png",
+        "classname": "react"
+    },
+    {
+        "id": "ts",
+        "title": "C++",
+        "src": "c-logo.png",
+        "classname": "typescript"
+    },
+    {
+        "id": "jq",
+        "title": "jQuery",
+        "src": "jquery.png",
+        "classname": "jquery"
+    },
+    {
+        "id": "bs",
+        "title": "Bootstrap",
+        "src": "bootstrap.png",
+        "classname": "bootstrap"
+    },
+    {
+        "id": "next",
+        "title": "Java",
+        "src": "java_svg_last.svg",
+        "classname": "next"
+    },
+    {
+        "id": "redux",
+        "title": "Redux",
+        "src": "redux.svg",
+        "classname": "redux"
+    },
+    {
+        "id": "vue",
+        "title": "Vue",
+        "src": "vue.png",
+        "classname": "vue"
+    },
+    {
+        "id": "tw",
+        "title": "Tailwind",
+        "src": "tailwind.png",
+        "classname": "tailwind"
+    },
+    {
+        "id": "vt",
+        "title": "Vuetify",
+        "src": "vuetify.png",
+        "classname": "vuetify"
+    },
+    {
+        "id": "svelte",
+        "title": "SvelteKit",
+        "src": "svelte.svg",
+        "classname": "svelte"
+    }
+]
