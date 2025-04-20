@@ -1,17 +1,15 @@
 [
     {
-        "name": "Sperse Chat (Beta)",
-        "href": "https://sperse.netlify.app/",
-        "desc": "FOSS Chat app for everyone!",
-        "github": "sperse",
-        "img": "sperse.jpg",
+        "name": "W3Chat(Beta)",
+        "href": "https://appetize.io/app/b_jxlian5timmfwumzgd2gfossf4",
+        "desc": "FOSS Chat app!",
+        "github": "Chat-App",
+        "img": "chat.png",
         "position": "",
         "tools": [
-            "react.png",
+            "android_studio.svg",
             "firebase.png",
-            "js.png",
-            "postman.png",
-            "vite.png"
+            "java_svg_final.svg"
         ]
     },
     {
@@ -29,18 +27,16 @@
         ]
     },
     {
-        "name": "Snapshot images",
-        "href": "https://snapshotphotos.netlify.app/",
-        "desc": "Snapshot is a image viewing app that takes data from Unsplash API",
-        "github": "snapshot",
-        "img": "snapshot.png",
+        "name": "Notes App",
+        "href": "https://appetize.io/app/b_qiwrgee3al6chv6uz25ltvdd6m",
+        "desc": "Stay Consistent with notes on the go!",
+        "github": "Notes-App",
+        "img": "notes.png",
         "position": "",
         "tools": [
-            "react.png",
-            "js.png",
-            "postman.png",
-            "vite.png",
-            "tailwind.png"
+            "android_studio.svg",
+            "firebase.png",
+            "java_svg_final.svg"
         ]
-    }
+    }  
 ]

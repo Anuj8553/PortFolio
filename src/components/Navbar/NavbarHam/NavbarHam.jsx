@@ -11,7 +11,7 @@ const NavbarHam = ({ openMenu, hamMenu, hamIcon, line1, line2 }) => {
                 <NavbarLink title={'Projects'} href={'#projects'}></NavbarLink>
                 <NavbarLink title={'Experience'} href={'#projects'}></NavbarLink>
                 <NavbarLink title={'Publications'} href={'#projects'}></NavbarLink>
-                <a target='_blank' href='https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqZhfXpHnlHVlmDHFrMJZBnXKhsfNLKZzjvnTPvvGcQkRZNvBZJQKHCMJFmwhKtPHdKWcL' className="navbar__link">tanishqkrk@gmail.com</a>
+                <a target='_blank' href='https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqZhfXpHnlHVlmDHFrMJZBnXKhsfNLKZzjvnTPvvGcQkRZNvBZJQKHCMJFmwhKtPHdKWcL' className="navbar__link">anujbhardwaj329@gmail.com</a>
                 {/* <NavbarLink title={'Contact'} href={'#projects'}></NavbarLink> */}
                 <a href='./resume.pdf' download={'./resume.pdf'} className="navbar__link">Download Resume</a>
             </div>

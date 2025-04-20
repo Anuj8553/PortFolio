@@ -2,8 +2,8 @@
     {
         "name": "W3Chat(Beta)",
         "href": "https://appetize.io/app/b_jxlian5timmfwumzgd2gfossf4",
-        "desc": "FOSS Chat app for everyone!",
-        "github": "sperse",
+        "desc": "FOSS Chat app!",
+        "github": "Chat-App",
         "img": "chat.png",
         "position": "",
         "tools": [
@@ -27,58 +27,16 @@
         ]
     },
     {
-        "name": "Snapshot images",
-        "href": "https://snapshotphotos.netlify.app/",
-        "desc": "Snapshot is a image viewing app that takes data from Unsplash API",
-        "github": "snapshot",
-        "img": "snapshot.png",
+        "name": "Notes App",
+        "href": "https://appetize.io/app/b_qiwrgee3al6chv6uz25ltvdd6m",
+        "desc": "Stay Consistent with notes on the go!",
+        "github": "Notes-App",
+        "img": "notes.png",
         "position": "",
         "tools": [
-            "react.png",
-            "js.png",
-            "postman.png",
-            "vite.png",
-            "tailwind.png"
+            "android_studio.svg",
+            "firebase.png",
+            "java_svg_final.svg"
         ]
-    },
-    {
-        "name": "Wool (Web Tools)",
-        "href": "https://woolonline.netlify.app/",
-        "desc": "Wool is a multipurpose set of web tools that is currently under progress",
-        "github": "wool",
-        "img": "wool.png",
-        "position": "",
-        "tools": [
-            "react.png",
-            "js.png",
-            "postman.png",
-            "vite.png",
-            "tailwind.png"
-        ]
-    },
-    {
-        "name": "IP Address tracker",
-        "href": "https://tanishqkrk.github.io/IP-tracker/",
-        "desc": "Takes IP address as input and returns the geolocation as a map",
-        "github": "ip-tracker",
-        "img": "ip-min.png",
-        "position": "",
-        "tools": [
-            "js.png",
-            "postman.png",
-            "vite.png"
-        ]
-    },
-    {
-        "name": "Password Generator",
-        "href": "https://tanishqkrk.github.io/IP-tracker/",
-        "desc": "Generate random passwords and check their strengths. Choose 4 different parameters to generate a strong password",
-        "github": "password-generator",
-        "img": "pg.png",
-        "position": "",
-        "tools": [
-            "js.png",
-            "vite.png"
-        ]
-    }
+    }  
 ]

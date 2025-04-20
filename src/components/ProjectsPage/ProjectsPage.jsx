@@ -10,11 +10,19 @@ const ProjectsPage = () => {
             </div>
             <div className="projects__work" style={{ width: "100%" }}>
                 {
-                    projects.map(project => <Project tools={project.tools} name={project.name} desc={project.desc} github={`https://github.com/tanishqkrk/${project.github}`} img={`./${project.img}`} href={project.href} ></Project>)
+                    projects.map(project => <Project tools={project.tools} 
+                        name={project.name} 
+                        desc={project.desc} 
+                        github={`https://github.com/anuj8553/${project.github}`} 
+                        img={`./${project.img}`} 
+                        href={project.href} ></Project>)
                 }
             </div>
         </div>
     )
 }
-
+console.log("Projects Data: in ProjectsPage", projects);
 export default ProjectsPage
+
+
+

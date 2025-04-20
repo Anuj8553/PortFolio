@@ -27,7 +27,7 @@ const Navbar = ({ openMenu, hamMenu, NavbarElement, hamIcon, line1, line2, overl
 
     return (
         <header ref={NavbarElement} className="navbar">
-            <a href='' className='navbarTitle'><img src="/opt 1.svg" alt="" /></a>
+            <a href='' className='navbarTitle'> <img src={`${import.meta.env.BASE_URL}opt_1.svg`} /></a>
             {/* <a href="#"> <img src="./opt 1.svg" alt="" className="navbar__logo" /></a> */}
             <a ref={mailButton} target={"_blank"} href="mailto:anujbhardwaj329@gmail.com" className="navbarMail"><i className="fa-solid fa-envelope"></i></a>
             <div className="navbarLinks">
