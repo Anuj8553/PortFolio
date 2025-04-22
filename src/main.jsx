@@ -6,12 +6,12 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import ProjectsPage from './components/ProjectsPage/ProjectsPage'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter >
-    <Routes>
-      <Route path="/" element={<App />}></Route>
-      <Route path="/projects" element={<ProjectsPage />}></Route>
-    </Routes>
-  </BrowserRouter>
+  <BrowserRouter  basename="/portfolio">
+  <Routes>
+    <Route path="/" element={<App />}></Route>
+    <Route path="/projects" element={<ProjectsPage />}></Route>
+  </Routes>
+</BrowserRouter>
 )
 
 
