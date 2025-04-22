@@ -6,7 +6,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import ProjectsPage from './components/ProjectsPage/ProjectsPage'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter  basename="/portfolio">
+  <BrowserRouter  basename="/Portfolio">
   <Routes>
     <Route path="/" element={<App />}></Route>
     <Route path="/projects" element={<ProjectsPage />}></Route>
